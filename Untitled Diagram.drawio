@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T03:24:03.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" version="17.5.0" etag="uiiA6ult2XmVbyr0-xYf" type="github"><diagram id="NUfan7A6GTYMJubPJxAW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-03T03:31:05.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="P3hNOafpCth2DWyxSTal" version="17.5.0" type="github">
+  <diagram id="NUfan7A6GTYMJubPJxAW" name="Page-1">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3Z2bkcAb50a6Iq6AdsA-1" target="d3Z2bkcAb50a6Iq6AdsA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-1" value="시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3Z2bkcAb50a6Iq6AdsA-2" target="d3Z2bkcAb50a6Iq6AdsA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-2" value="물에 건더기 스프를 넣는다." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3Z2bkcAb50a6Iq6AdsA-6" target="d3Z2bkcAb50a6Iq6AdsA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-6" value="물을 끓인다." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3Z2bkcAb50a6Iq6AdsA-8" target="d3Z2bkcAb50a6Iq6AdsA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-8" value="물이 끓는가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3Z2bkcAb50a6Iq6AdsA-11" target="d3Z2bkcAb50a6Iq6AdsA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-11" value="분말 스프와 면을 넣는다." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="620" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3Z2bkcAb50a6Iq6AdsA-13" target="d3Z2bkcAb50a6Iq6AdsA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-13" value="물을 끓인다." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3Z2bkcAb50a6Iq6AdsA-15" target="d3Z2bkcAb50a6Iq6AdsA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-15" value="4분이 지났는가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="890" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d3Z2bkcAb50a6Iq6AdsA-17" value="끝" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1060" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
